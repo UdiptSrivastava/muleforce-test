@@ -12,7 +12,9 @@ If movie is found then it dislays all those movies else it prints "Not found".
 <p> </p>
 <p> </p>
 
+<h6>List of all the movies:</h6>
 <img src="https://user-images.githubusercontent.com/63860571/163291073-fe64d580-6a55-48f3-a509-1d505462c4ef.png" width="500px">
+<h6>List of movies with actor 'Ranvir Singh':</h6>
 <img src="https://user-images.githubusercontent.com/63860571/163291078-77ac67af-aa93-48fe-bd76-fe9104b131a3.png" width="500px">
 
 
